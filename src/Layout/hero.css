@@ -1,0 +1,12 @@
+.hero {
+    height: 350px;
+    background-image: url(https://dadabooksearch.netlify.app/images/headerbg.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    font-size: 32px;
+    color: white;
+}
